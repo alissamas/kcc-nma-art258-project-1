@@ -47,6 +47,9 @@ nav li a:hover {
 
 main {
   background-color: #55cdce;
+  background: url('http://www.wallpaperfromthe70s.com/media/image/461375_Kaleidoscope.jpg');
+  background-size: 300%;
+  opacity: 80%;
   margin: 0;
   height: 800px;
   clear: both;
@@ -106,7 +109,7 @@ main {
 h1 {
   font-family: 'Shrikhand', cursive;
   font-size: 3.5rem;
-  color: white;
+  color: #fff;
   margin-bottom: 4rem;
 }
 
