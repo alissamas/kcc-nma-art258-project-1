@@ -48,6 +48,7 @@ main {
   background-color: #55cdce;
   background: url('https://images.designtrends.com/wp-content/uploads/2015/12/03054053/Retro-Backgrounds14.jpg');
   background-size: 100%;
+  background-repeat: none;
   margin: 0;
   height: 800px;
   clear: both;
